@@ -49,7 +49,7 @@ In addition, I am currently learning about the following:
   </a>
   <div align="left">
     <h3>My favourite project I work on ❤️</h3>
-    <a href="https://github.com/elias-alexander-eder/thd_notes">
+    <a href="https://github.com/elias-alexander-eder/PassHub">
       <img src="https://github-readme-stats-ten-alpha-e2cejwbh0d.vercel.app/api/pin/?username=elias-alexander-eder&repo=PassHub&theme=dracula&hide_border=true&bg_color=80808010" alt="Readme Card" width="53%">
     </a>
   </div>
