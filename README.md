@@ -14,19 +14,11 @@ A selection of languages, frameworks and software that I have experience with:
   <a href="https://www.python.org/"><img src="assets/icons/python.svg" width="48" height="48" alt="Python"></a>
   <a href="https://rust-lang.org/"><img src="assets/icons/rust.svg" width="48" height="48" alt="Rust"></a>
   <a href="https://isocpp.org/"><img src="assets/icons/c++.svg" width="48" height="48" alt="C++"></a>
-  <a href="https://www.soliditylang.org/"><img src="assets/icons/solidity.svg" width="48" height="48" alt="Solidity"></a>
+  <a href="https://github.com/ansible/ansible"><img src="assets/icons/Ansible.png" width="48" height="48" alt="Solidity"></a>
   <a href="https://www.gnu.org/software/bash/"><img src="assets/icons/bash.svg" width="48" height="48" alt="Bash"></a>
   <a href="https://learn.microsoft.com/de-de/powershell/"><img src="assets/icons/powershell.svg" width="48" height="48" alt="PowerShell"></a>
-  <a href="https://www.postgresql.org/"><img src="assets/icons/postgresql.svg" width="48" height="48" alt="PostgreSQL"></a>
-  <a href="https://git-scm.com/"><img src="assets/icons/git.svg" width="48" height="48" alt="Git"></a>
   <a href="https://pytorch.org/"><img src="assets/icons/pytorch.svg" width="48" height="48" alt="Pytorch"></a>
-</div>
-
-<div>
   <a href="https://www.kali.org/"><img src="assets/icons/kali.svg" width="48" height="48" alt="Kali"></a>
-  <a href="https://www.trellix.com/"><img src="assets/icons/trellix.svg" width="48" height="48" alt="Trellix"></a>
-  <a href="https://www.skyhighsecurity.com/"><img src="assets/icons/skyhigh.svg" width="48" height="48" alt="Skyhigh"></a>
-  <a href="https://www.darktrace.com/"><img src="assets/icons/darktrace.svg" width="48" height="48" alt="Darktrace"></a>
   <a href="https://typst.app/"><img src="assets/icons/typst.svg" width="48" height="48" alt="Typst"></a>
 </div>
 
@@ -36,8 +28,6 @@ In addition, I am currently learning about the following:
 
 <div>
   <a href="https://www.r-project.org/"><img src="assets/icons/R.svg" width="48" height="48" alt="R"></a>
-  <a href="https://www.ibm.com/quantum/qiskit"><img src="assets/icons/qiskit.svg" width="48" height="48" alt="Qiskit"></a>
-  <a href="https://www.peoplecert.org/"><img src="assets/icons/itil.svg" width="48" height="48" alt="ITIL"></a>
 </div>
 
 <br>
